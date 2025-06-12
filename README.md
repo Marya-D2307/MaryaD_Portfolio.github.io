@@ -12,3 +12,25 @@ Outside of technical skills, I’ve cultivated a disciplined, self-motivated app
 I’m deeply committed to building a meaningful career in data analysis, and I bring both seriousness of purpose and a genuine enthusiasm to contribute to this ever-evolving field. I love staying updated with technological advancements, especially in areas like AI, and I’m always excited to explore new frontiers in data, learning, and innovation. My strong communication skills, analytical mindset, and eagerness to learn position me well for roles that combine technical analysis with practical impact.
 This portfolio reflects my growth so far and marks the beginning of a journey I’m eager to continue — as a student, a contributor, and a disciplined analyst ready to make a difference.
 
+
+# 📊 Comprehensive Sales Analysis Dashboard – Adventure Works
+
+Interactive Excel dashboard analyzing historical sales data to identify revenue trends, profit margins, seasonal patterns, and geographic performance.
+
+## 🔍 Key Highlights
+- Analyzed sales quantity, revenue, COGS, and profit from Adventure Works dataset (2008)
+- Identified top-performing months, weekdays vs. weekend trends, and quarterly fluctuations
+- Enabled dynamic filtering by region and time with slicers
+- Built with Excel PivotTables, charts, and VBA macros
+
+## 🛠️ Tools & Technologies
+- Excel
+- VBA (Macros)
+- PivotTables
+- Data Visualization
+
+## 🧠 Focus Areas
+- Business Intelligence
+- Sales Performance Monitoring
+- Time-Series Analysis
+- Executive Reporting
