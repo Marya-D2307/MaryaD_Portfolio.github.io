@@ -1,6 +1,11 @@
 # MaryaD_Portfolio.github.io
 It is your commitment to the process that will determine your progress.
 
+## 📌 Table of Contents
+- [About Me](#about-me)
+- [Retail Sales Analysis Dashboard](#retail-sales-analysis-dashboard)
+- [Movie Success Analysis](#movie-success-analysis)
+- [Customer Order Analysis](#customer-order-analysis)
 
 ## About Me
 My journey into data analysis began during my undergraduate studies in Economics, where I frequently found myself drawn to the analytical aspects of my coursework and projects. This curiosity deepened during my MPhil research, where I experienced firsthand the power of data in uncovering insights and shaping understanding. What started as an academic interest gradually evolved into a passion for research and data-driven storytelling. Although I briefly considered pursuing a PhD to continue this exploration, I realized that what I truly wanted was to engage with real-world data — particularly in the contexts of economics, business, and market analysis. This decision was driven by my desire to build practical experience and create impactful work that reflects current, real-time dynamics.
@@ -13,7 +18,7 @@ I’m deeply committed to building a meaningful career in data analysis, and I b
 This portfolio reflects my growth so far and marks the beginning of a journey I’m eager to continue — as a student, a contributor, and a disciplined analyst ready to make a difference.
 
 
-## 📊 Comprehensive Sales Analysis Dashboard – Adventure Works
+## Retail Sales Analysis Dashboard 
 
 Interactive Excel dashboard analyzing historical sales data to identify revenue trends, profit margins, seasonal patterns, and geographic performance.
 
