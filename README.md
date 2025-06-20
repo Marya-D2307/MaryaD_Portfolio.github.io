@@ -30,6 +30,9 @@ This portfolio reflects my growth so far and marks the beginning of a journey Iâ
    - [Data Visualization in Tableau](#data-visualization-in-tableau)    
 ### PowerBI
    - [Amazon Sales Analysis in PowerBI](#amazon-sales-analysis-in-powerbi)
+### Education
+### Certificates
+### Contact
 
 ## Sales Data Visualization in Excel
 Interactive Excel dashboard analyzing historical sales data to identify revenue trends, profit margins, seasonal patterns, and geographic performance.
@@ -166,3 +169,30 @@ Interactive Power BI dashboard analyzing Amazon product sales to uncover key rev
 **Tools & Technologies:** Power BI, DAX, Interactive Visuals, Data Modeling
 
 **Focus Areas:** Business Intelligence, E-commerce Analytics, Sales Trend Analysis, Data-Driven Decision Making
+
+## Education
+
+### MPhil. in Economics,University of the Punjab, Lahore | 2019 - 2021
+ - 3rd Position, Batch of 2021 | CGPA: 3.39
+ - Thesis Topic: 'Gig Economy': An Alternative for Pakistani Female Labor Force Facing Structural Constraints
+   
+### BS (Honors) in Economics, Lahore College for Women University | 2015-2019
+ - 1st Position, Batch of 2019 | CGPA: 3.79
+ - Awarded Academic Roll of Honor
+
+### Certifications
+
+### Coursera
+ - Google Data Analytics Professional Certificate | Nov/2021 - Jan/2022
+ - Programming for Everybody (Getting Started with Python) | Jun/2024
+ - Strategic Business Analytics Specialization | Jul/2024 - Aug/2024
+
+### Cactus University
+ - Editing Basics | April/2022 - May/2022
+ - Introductory Course for LBL ROCs (SES) | May/2022 - Jun/2022
+
+## Contact
+
+ -  Email: maryamrizwan7@gmail.com ; marya.d0723@gmail.com  
+ -  LinkedIn: [@maryamrizwan](https://linkedin.com/in/yourprofile)
+
