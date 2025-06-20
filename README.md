@@ -15,23 +15,23 @@ This portfolio reflects my growth so far and marks the beginning of a journey I�
 ## Table of Contents
 - [About Me](#about-me)
 ### Excel
-   - [Retail Sales Analysis Dashboard](#retail-sales-analysis-dashboard)
+   - [Sales Data Visualization in Excel](#sales-data-visualization-in-excel)
 ### SQL
-   - [E-commerce Analysis](#e-commerce-analysis)
-   - [Nashville Housing Data Cleaning ](#nashville-housing-data-cleaning)
-   - [COVID‑19 Analysis Project](#covid‑19-analysis-project)
-   - [Sales Data Analysis ](#sales-data-analysis)
+   - [E-commerce Analysis in SQL](#e-commerce-analysis-in-sql)
+   - [Data Cleaning Project in SQL ](#data-cleaning-project-in-sql)
+   - [Data Exploration in SQL](#data-exploration-in-sql)
+   - [Business Analysis in SQL](#business-analysis-in-sql)
 ### Python
    - [US Labor Market Analysis](#us-labor-market-analysis)
-   - [Hollywood Analysis](#hollywood-nalysis)    
+   - [Data Correlation in Python](#data-correlation-in-python)    
 ### Tableau
-
+   - [Data Visualization in Tableau](#data-visualization-in-tableau)    
 ### PowerBI
-   - [Amazon Products Sales Dashboard](#amazon-products-sales-dashboard)
+   - [Amazon Sales Analysis in PowerBI](#amazon-sales-analysis-in-powerbi)
 
-## Retail Sales Analysis Dashboard 
-
+## Sales Data Visualization in Excel
 Interactive Excel dashboard analyzing historical sales data to identify revenue trends, profit margins, seasonal patterns, and geographic performance.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Sales_Data_Visualization_in_Excel.xlsm)
 
 ### Key Highlights
 - Analyzed sales quantity, revenue, COGS, and profit from Adventure Works dataset (2008)
@@ -43,8 +43,9 @@ Interactive Excel dashboard analyzing historical sales data to identify revenue 
 
 **Focus Areas:** Business Intelligence, Sales Performance Monitoring, Time-Series Analysis, and Executive Reporting
 
-## E-commerce Analysis
+## E-commerce Analysis in SQL
 SQL-based analysis of e-commerce customer and order data to uncover product trends, buying behavior, and regional performance.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/E-commerce_Analysis_in_SQL.sql)
 
 ### Key Highlights
  - Cleaned and joined multiple tables (orders, customers, products) using SQL queries
@@ -56,8 +57,9 @@ SQL-based analysis of e-commerce customer and order data to uncover product tren
 
 **Focus Areas:** Customer behavior, product trends, order patterns, regional segmentation, e-commerce analytics
 
-## Nashville Housing Data Cleaning 
+## Data Cleaning Project in SQL
 SQL script for cleaning and preparing Nashville housing sales data, transforming raw data into a structured, analysis-ready dataset.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Data_Cleaning_Project_in_SQL.sql)
 
 ### Key Highlights
  - Standardized date formats (e.g., converting timestamps to clean date types)
@@ -71,8 +73,9 @@ SQL script for cleaning and preparing Nashville housing sales data, transforming
 
 **Focus Areas:** Data Preparation, ETL, Data Quality, Clean Architecture, Housing Analytics
 
-## COVID‑19 Analysis Project
+## Data Exploration in SQL
 Interactive data analysis project exploring COVID‑19 cases, deaths, and vaccination trends to extract insights on pandemic progression and public health impact.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Data_Exploration_in_SQL.sql)
 
 ### Key Highlights
  - Processed comprehensive datasets on COVID‑19 cases, deaths, and vaccinations across countries/regions
@@ -84,8 +87,9 @@ Interactive data analysis project exploring COVID‑19 cases, deaths, and vaccin
 
 **Focus Areas:** Epidemiological Trends, Public Health Analytics, Time-Series Analysis, Data-Driven Policy Insights
 
-## Sales Data Analysis 
+## Business Analysis in SQL
 SQL script designed to clean, transform, and analyze sales transaction data, delivering actionable insights into revenue, product performance, and customer behavior.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Business_Analysis_in_SQL.sql)
 
 ### Key Highlights
  - Cleaned and standardized sales transaction records (dates, product IDs, order values)
@@ -99,7 +103,9 @@ SQL script designed to clean, transform, and analyze sales transaction data, del
 
 **Focus Areas:** Sales Analytics, Revenue Tracking, Customer Segmentation, Time-Series Analysis
 
-## US Labor Market Analysis
+## US Labor Market Analysis 
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/US_Labor_Market_Analysis.ipynb)
+
 Interactive Jupyter Notebook analyzing key indicators of the U.S. labor market to uncover trends in employment, unemployment, and sectoral performance.
 
 ### Key Highlights
@@ -113,8 +119,10 @@ Interactive Jupyter Notebook analyzing key indicators of the U.S. labor market t
 
 **Focus Areas:** Labor Market Analytics, Employment Trends, Sectoral Analysis, Demographic Study
 
-## Hollywood Analysis
+
+## Data Correlation in Python
 Interactive Jupyter Notebook exploring key trends and performance in the Hollywood film industry through box office, genre, and rating data.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Data_Correlation_in_Python.ipynb)
 
 ### Key Highlights
  - Collected and cleaned datasets on box office revenues, IMDb/Rotten Tomatoes ratings, and film genres
@@ -127,13 +135,24 @@ Interactive Jupyter Notebook exploring key trends and performance in the Hollywo
 
 **Focus Areas:** Film Industry Insights, Box Office Analytics, Genre & Rating Analysis, Entertainment Data Storytelling
 
+## Data Visualization in Tableau
+Interactive Tableau dashboard visualizing COVID-19 trends worldwide to highlight case counts, death rates, geographic spread, and infection forecasting by country and continent.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Data_Visualization_in_Tableau.md)
 
+### Key Highlights:
+ - Summarized global totals of COVID-19 cases, deaths, and death percentages
+ - Compared total deaths across continents to identify high-impact region
+ - Analyzed infection trends over time, with actual vs. estimated % of population infected
+ - Visualized country-level infection percentages on a choropleth map
+ - Enabled multi-country and time-based comparisons using visual forecast lines and filters
 
+**Tools and Technologies:** Tableau, Forecasting, Geographic Mapping
 
+**Focus Areas:** Public health analytics, pandemic trend analysis, forecasting, data storytelling
 
-## Amazon Products Sales Dashboard
-
+## Amazon Sales Analysis in PowerBI
 Interactive Power BI dashboard analyzing Amazon product sales to uncover key revenue drivers, customer engagement levels, and quarterly trends.
+[View Code](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Amazon_Sales_Analysis_in_PowerBI.pbix)
 
 ### Key Highlights
  - Tracked YTD sales and QTD sales with KPIs for products sold and customer reviews
