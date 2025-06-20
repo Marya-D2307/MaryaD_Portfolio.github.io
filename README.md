@@ -11,7 +11,7 @@ Outside of technical skills, I’ve cultivated a disciplined, self-motivated app
 
 I’m deeply committed to building a meaningful career in data analysis, and I bring both seriousness of purpose and a genuine enthusiasm to contribute to this ever-evolving field. I love staying updated with technological advancements, especially in areas like AI, and I’m always excited to explore new frontiers in data, learning, and innovation. My strong communication skills, analytical mindset, and eagerness to learn position me well for roles that combine technical analysis with practical impact.
 This portfolio reflects my growth so far and marks the beginning of a journey I’m eager to continue — as a student, a contributor, and a disciplined analyst ready to make a difference.
-[View my CV (PDF)]
+[View my CV (PDF)](https://github.com/Marya-D2307/MaryaD_Portfolio.github.io/blob/main/Maryam_Rizwan_CV_2025.pdf).
 
 ## Table of Contents
 - [About Me](#about-me)
