@@ -30,9 +30,14 @@ This portfolio reflects my growth so far and marks the beginning of a journey Iâ
    - [Data Visualization in Tableau](#data-visualization-in-tableau)    
 ### PowerBI
    - [Amazon Sales Analysis in PowerBI](#amazon-sales-analysis-in-powerbi)
-### Education
-### Certificates
-### Contact
+
+### Background and Contact
+  
+- [Education](#education)
+  
+- [Certificatons](#certifications)
+  
+- [Contact](#contact)
 
 ## Sales Data Visualization in Excel
 Interactive Excel dashboard analyzing historical sales data to identify revenue trends, profit margins, seasonal patterns, and geographic performance.
@@ -180,7 +185,7 @@ Interactive Power BI dashboard analyzing Amazon product sales to uncover key rev
  - 1st Position, Batch of 2019 | CGPA: 3.79
  - Awarded Academic Roll of Honor
 
-### Certifications
+## Certifications
 
 ### Coursera
  - Google Data Analytics Professional Certificate | Nov/2021 - Jan/2022
