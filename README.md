@@ -44,6 +44,9 @@ This portfolio reflects my growth so far and marks the beginning of a journey Iâ
 ## Data Quality and Risk Insights for Operational Safety and Visibility
 
 ### End-to-End Data Analysis & Deduplication Project
+You can view the interactive version of this project here:
+[View Project in Browser](https://marya-d2307.github.io/MaryaD_Portfolio.github.io/professional_projects/deduplication_project/Deduplication_Project.html)
+
 
 This project simulates real-world challenges faced by organizations operating large vehicle fleets, with a focus on data quality, deduplication, risk event detection, and operational visibility. It demonstrates a structured, business-oriented approach to identifying and mitigating risks across driver behavior, freight tracking, vehicle faults, and maintenance data.
 
