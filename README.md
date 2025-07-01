@@ -16,6 +16,8 @@ This portfolio reflects my growth so far and marks the beginning of a journey Iâ
 
 ## Table of Contents
 - [About Me](#about-me)
+### Professional Portfolio Projects
+   - [Data Quality & Risk Insights for Operational Safety and Visibility](#data-quality-and-risk-insights-for-operational-safety-and-visibility)
 ### Excel
    - [Sales Data Visualization in Excel](#sales-data-visualization-in-excel)
 ### SQL
