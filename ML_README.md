@@ -92,10 +92,12 @@ This makes it well-suited for supporting real-world loan approval decisions wher
 ### Steps
 
 1. Clone the repository or download the project files  
-2. Open the main Jupyter notebook  
-3. Run cells sequentially from top to bottom:
+2. Open the main Jupyter notebook in **Google Colab**  
+3. From the top menu, click **Runtime → Run all**  
+4. All cells will execute sequentially, covering:
    - Data loading & cleaning  
-   - EDA  
+   - Exploratory Data Analysis (EDA)  
    - Modeling & evaluation  
-   - Interpretability analysis  
-4. All results and visualizations will be generated within the notebook
+   - Model interpretability analysis  
+5. All results, tables, and visualizations will be generated automatically within the notebook
+
